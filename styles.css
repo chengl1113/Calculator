@@ -28,6 +28,8 @@ body{
     font-size: 58px;
     background-color: #676b6e;
     border-radius: 6px;
+    margin-top: 1px;
+    margin-bottom: 4px;
 }
 
 .zero{
@@ -36,7 +38,7 @@ body{
 }
 
 .operand{
-    background-color: E4F6F8;
+    background-color: #E4F6F8;
     font-size: 18px;
     border-radius: 6px;
 }
