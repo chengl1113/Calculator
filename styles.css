@@ -49,7 +49,12 @@ body{
     border-radius: 6px;
 }
 
-#ac {
+#ac{
+    background-color: #a1b1b5;
+    font-size: 18px;
+    border-radius: 6px;
+}
+#equals{
     background-color: #a1b1b5;
     font-size: 18px;
     border-radius: 6px;
